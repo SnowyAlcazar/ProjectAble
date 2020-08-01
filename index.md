@@ -25,6 +25,7 @@ To create a project, only 8 pieces of information are required.
 
 #### Budget Distribution
 ProjectAble uses the reporting frequency, project start and project end dates, and selected budget distribution curve input by the user when setting up the project, to spread the project budget according to expectated project spend and schedule. ProjectAble provides 5 methods for distributing budgets:
+
 Curve | Description
 ------|------------
 Flat | distributes the budget evenly across the reporting periods
