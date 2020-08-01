@@ -21,15 +21,15 @@ To create a project, only 8 pieces of information are required.
 5. Project start date
 6. Project end date
 7. Project budget
-8. Budget distribution - the 5 options are described below.
+8. Budget distribution - the 5 options available are described below.
 
-#### Budget Distributions
+#### Budget Distribution
 ProjectAble uses the reporting frequency, project start and project end dates, and selected budget distribution curve input by the user when setting up the project, to spread the project budget according to expectated project spend and schedule. ProjectAble provides 5 methods for distributing budgets:
-1. Flat - distributes the budget evenly across the reporting periods
-2. Front - loads the majority of spend at the beginning of the project
-3. Normal - loads the majority of spend in the middle of the project
-4. Back - loads the majority of spend towards the end of the project
-5. Manual - enables the user to create per reporting period budgets manually according to their planning
+- Flat - distributes the budget evenly across the reporting periods
+- Front - loads the majority of spend at the beginning of the project
+- Normal - loads the majority of spend in the middle of the project
+- Back - loads the majority of spend towards the end of the project
+- Manual - enables the user to create per reporting period budgets manually according to their planning
 
 ProjectAble distributes the automated budget spreads by dividing the duration into quarters and applying a rate to each reporting period within each quarter in order to profile distribution as smoothly as possible. Setting budgets manually provides greater control over budget distribution.
 
