@@ -4,8 +4,13 @@
 
 > A Helpful Status Reporting and Forecasting App for iPhone
 
+## Current Version
+Version 1.0 build 10 (hopefully the final beta) is currently in beta test. 
+
 ## What is ProjectAble?
 ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
+
+## How does ProjectAble work?
 
 ### Budget Distribution
 ProjectAble uses the reporting frequency, project start and project end dates, and selected budget distribution curve input by the user when setting up the project, to spread the project budget according to expectated project spend and schedule. ProjectAble provides 5 methods for distributing budgets:
