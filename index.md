@@ -39,6 +39,8 @@ Manual | enables the user to create per reporting period budgets manually accord
 
 ProjectAble distributes the automated budget spreads by dividing the duration into quarters and applying a rate to each reporting period within each quarter in order to profile distribution as smoothly as possible. Setting budgets manually provides greater control over budget distribution.
 
+> If the duration of a project allows less than 4 reporting periods, the curve will be treated as **flat**. This does not apply to manual budgets.
+
 ### 2. Project Lifecycle
 
 #### Completing a project
