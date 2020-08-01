@@ -2,7 +2,7 @@
 
 # Welcome to ProjectAble Home Page 
 
-> A Helpful Status Reporting and Forecasting iPhone App
+> A Helpful Status Reporting and Forecasting App for iPhone
 
 ## Current Version
 Version 1.0 build 10 (hopefully the final beta) is currently in beta test. 
@@ -25,11 +25,13 @@ To create a project, only 8 pieces of information are required.
 
 #### Budget Distribution
 ProjectAble uses the reporting frequency, project start and project end dates, and selected budget distribution curve input by the user when setting up the project, to spread the project budget according to expectated project spend and schedule. ProjectAble provides 5 methods for distributing budgets:
-- Flat - distributes the budget evenly across the reporting periods
-- Front - loads the majority of spend at the beginning of the project
-- Normal - loads the majority of spend in the middle of the project
-- Back - loads the majority of spend towards the end of the project
-- Manual - enables the user to create per reporting period budgets manually according to their planning
+Curve | Description
+------|------------
+Flat | distributes the budget evenly across the reporting periods
+Front | loads the majority of spend at the beginning of the project
+Normal | loads the majority of spend in the middle of the project
+Back | loads the majority of spend towards the end of the project
+Manual | enables the user to create per reporting period budgets manually according to their planning
 
 ProjectAble distributes the automated budget spreads by dividing the duration into quarters and applying a rate to each reporting period within each quarter in order to profile distribution as smoothly as possible. Setting budgets manually provides greater control over budget distribution.
 
