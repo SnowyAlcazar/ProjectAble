@@ -2,7 +2,7 @@
 
 # Welcome to ProjectAble Home Page 
 
-> A Helpful Status Reporting and Forecasting App for iPhone
+> A Helpful Status Reporting and Forecasting iPhone App
 
 ## Current Version
 Version 1.0 build 10 (hopefully the final beta) is currently in beta test. 
@@ -12,8 +12,18 @@ ProjectAble uses a traditional project management technique called Earned Value 
 
 ## How does ProjectAble work?
 
-### Setup
-#### Budget Distribution
+### 1. Setup
+To create a project, only 8 pieces of information are required. 
+1. Project identifier
+2. Sponsor's name
+3. A description
+4. How often you report on your project - select frequency from : daily, weekly, 2 weekly or 4 weekly
+5. Project start date
+6. Project end date
+7. Project budget
+8. Budget distribution - the 5 options are described below.
+
+#### Budget Distributions
 ProjectAble uses the reporting frequency, project start and project end dates, and selected budget distribution curve input by the user when setting up the project, to spread the project budget according to expectated project spend and schedule. ProjectAble provides 5 methods for distributing budgets:
 1. Flat - distributes the budget evenly across the reporting periods
 2. Front - loads the majority of spend at the beginning of the project
@@ -26,7 +36,7 @@ ProjectAble distributes the automated budget spreads by dividing the duration in
 #### Treatment Of Time
 ProjectAble uses time only to calculate the project duration and number of reporting periods when a project is created. Each time a new progress update is added, ProjectAble calculates the budget percentage complete and spend for the reporting period (or uses the manual values provided). The reporting period is important but ProjectAble does not use specific date and time values in these calculations. With the final progress update, ProjectAble will set the percent complete to 100%. As with all progress updates, you can overwrite the pre-calculated values but please note, setting the percent complete to less than 100% will allow the project to continue, however, in these circumstances the calculations may behave unexpectedly.
 
-### Project Lifecycle
+### 2. Project Lifecycle
 
 #### Completing a project
 A project is set to complete automatically with the final reporting period or a project can be manually marked complete in 'Project Settings'. by clicking the button on the Project Details screen.
