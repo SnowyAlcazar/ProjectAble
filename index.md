@@ -7,6 +7,13 @@
 ## Current Version
 Version 1.0 build 10 (hopefully the final beta) is currently in beta test. 
 
+<h2>{{ _config.docs_list_title }}</h2>
+<ul>
+   {% for item in _config.docs_list_title %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   {% endfor %}
+</ul>
+
 ## 1. What is ProjectAble?
 ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
 
