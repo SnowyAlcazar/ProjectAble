@@ -5,19 +5,14 @@
 > A Helpful Status Reporting and Forecasting App for iPhone
 
 ## Current Version
-Version 1.0 build 10 (hopefully the final beta) is currently in beta test. 
+Version 1.0.10 
 
 ## 1. What is ProjectAble?
 ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
-## Menu Test
-<h2>{{ site.data.samplelist.docs_list_title }}</h2>
-<ul>
-   {% for item in site.data.samplelist.docs %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-   {% endfor %}
-</ul>
 
 ## 2. How does ProjectAble work?
+
+[User Guide](https://snowyalcazar.github.io/ProjectAble/pdfs/UserGuide.pdf" target="_blank">PDF.)
 
 #### Setup
 To create a project, only 8 pieces of information are required. 
@@ -73,6 +68,11 @@ To Complete Project Index | (BAC - EV) / (BAC - AC) | (Budget Cost - Earned Valu
 ## Notes
 - ProjectAble **_is_** a helpful tool to enable project professionals to track the status and forecast of a project quickly, reliably and accurately
 - ProjectAble **_is not_** intended to replace good planning, estimation, monitoring or control processes. Other tools are available for those purposes.
+
+## Privacy Policy
+- ProjectAble does not collect any personal data
+- ProjectAble does not share any personal data
+- All data entered in or created by ProjectAble is stored in local database on the users device
 
 ### Contact
 email | <ProjectAble@aleynmoor.co>
