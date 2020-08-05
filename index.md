@@ -7,12 +7,12 @@
 ## Current Version
 Version 1.0 build 10 (hopefully the final beta) is currently in beta test. 
 
-## What is ProjectAble?
+## 1. What is ProjectAble?
 ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
 
-## How does ProjectAble work?
+## 2. How does ProjectAble work?
 
-### 1. Setup
+#### Setup
 To create a project, only 8 pieces of information are required. 
 1. Project identifier
 2. Sponsor's name
@@ -41,12 +41,12 @@ ProjectAble distributes the automated budget spreads by dividing the duration in
 
 > If the duration of a project allows less than 4 reporting periods, the curve will be treated as **flat**. This does not apply if the project is using the ***manual budget*** option.
 
-### 2. Project Lifecycle
+### Project Lifecycle
 
 #### Completing a project
 A project is set to complete automatically with the final reporting period or a project can be manually marked complete in 'Project Settings'. by clicking the button on the Project Details screen.
 
-## Use of Earned Value (EVA) techniques
+## 3. Use of Earned Value (EVA) techniques
 ProjectAble uses the earned value calulations discussed widely on the web and published in the **Project Management Book of Knowledge (PMBoK)** [PMI EVA](https://www.pmi.org/learning/library/make-earned-value-work-project-6001). In addition, ProjectAble makes use of two additional Estimate AT Complete methods - [IEAC1 & IEAC2](https://www.linkedin.com/pulse/earned-value-management-ieac1-ieac2-mick-higgins/) which provide further context and provides a range in which the final project cost is currently forecast to fall.
 
 Calculation | Method | Descriptive Method
