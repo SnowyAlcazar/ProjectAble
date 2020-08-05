@@ -1,6 +1,6 @@
 <img style="float: right;" src="img/1024.png" height="150px" width="150px">
 
-# :+1: ProjectAble :+1: 
+# ProjectAble
 
 > A Helpful Status Reporting and Forecasting App for iPhone
 
