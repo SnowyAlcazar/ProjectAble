@@ -1,3 +1,11 @@
 theme: jekyll-theme-cayman
 title: Welcome to ProjectAble homepage!
 description: Bookmark this page to keep an eye out for updates.
+
+docs_list_title: ProjectAble Documentation
+
+- title: Privacy Policy
+  url: privacypolicy.md
+  
+- title: User Guide
+  url: userguide.md
