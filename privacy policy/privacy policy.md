@@ -1,5 +1,5 @@
 layout: page
 title: "Privacy Policy"
-permalink: /privacy policy/
+permalink: /privacypolicy/
 
 # ProjectAble Privacy Policy
