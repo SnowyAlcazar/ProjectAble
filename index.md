@@ -2,7 +2,7 @@
 
 # ProjectAble
 
-> A Helpful Status Reporting and Forecasting App for iPhone
+> A helpful status reporting and forecasting App for iPhone
 
 ## Current Version
 Version 1.0.10 
