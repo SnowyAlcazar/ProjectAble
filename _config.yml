@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: Welcome to ProjectAble homepage!
 description: Bookmark this page to keep an eye out for updates.
+
+plugins:
+ - jemoji
