@@ -3,13 +3,7 @@
 # Welcome to ProjectAble Home Page 
 
 > A Helpful Status Reporting and Forecasting App for iPhone
-<div class="row">
-  <div class="column left">
-## In this document
-    
-</div>
 
-<div class="column middle">
 ## Current Version
 Version 1.0 build 10 (hopefully the final beta) is currently in beta test. 
 
@@ -78,5 +72,3 @@ email | <ProjectAble@aleynmoor.co>
 
 
 <img  style="float: center;" src="img/1024.png" height="150px" width="150px">
-
-</div>
