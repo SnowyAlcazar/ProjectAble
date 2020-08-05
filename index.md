@@ -12,7 +12,7 @@ ProjectAble uses a traditional project management technique called Earned Value 
 
 ## 2. How does ProjectAble work?
 
-[User Guide](/pdfs/UserGuide")
+[User Guide](/pdfs/UserGuide.pdf")
 
 #### Setup
 To create a project, only 8 pieces of information are required. 
