@@ -10,9 +10,9 @@ Version 1.0.10
 ## Table of contents
 1. [What is ProjectAble?](#introduction)
 2. [How does ProjectAble work?](#projectableuserguide)
-  1. [Setup basics](#setup)
-  2. [Treatment of time](#time)
-  3. [Budget distribution](#distribution)
+    1. [Setup basics](#setup)
+    2. [Treatment of time](#time)
+    3. [Budget distribution](#distribution)
 3. [Lifecycle](#lifecycle)
 
 
