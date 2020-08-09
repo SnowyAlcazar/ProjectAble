@@ -77,12 +77,4 @@ To Complete Project Index | (BAC - EV) / (BAC - AC) | (Budget Cost - Earned Valu
 ### Contact
 email | <ProjectAble@aleynmoor.co>
 
-
 <img  style="float: center;" src="img/1024.png" height="150px" width="150px">
-
-<ul>
-  <li {% if page.url contains '/UserGuide' %}class="active"{% endif %}><a href="/userguide/">Getting started</a></li>
-  <li {% if page.url contains '/without-plugin' %}class="active"{% endif %}><a href="/without-plugins/">Without plugins</a></li>
-  <li {% if page.url contains '/about' %}class="active"{% endif %}><a href="/about/">About</a></li>
-  <li {% if page.url contains '/blog' %}class="active"{% endif %}><a href="/blog/">Blog</a></li>
-</ul>
