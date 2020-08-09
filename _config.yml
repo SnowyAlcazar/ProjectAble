@@ -5,4 +5,3 @@ description: Bookmark this page to keep an eye out for updates.
 plugins:
  - jemoji
 
-{% include simple-menu.html %}
