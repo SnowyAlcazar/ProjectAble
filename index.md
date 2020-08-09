@@ -9,17 +9,23 @@ Version 1.0.10
 
 ## Table of contents
 1. [What is ProjectAble?](#introduction)
-2. [How does ProjectAble work?](#projectableuserguide)
-    1. [Setup basics](#setup)
-    2. [Treatment of time](#time)
-    3. [Budget distribution](#distribution)
+2. [How does ProjectAble work?](#how)
+    1. [User Guide](#projectableuserguide)
+    2. [Setup basics](#setup)
+    3. [Treatment of time](#time)
+    4. [Budget distribution](#distribution)
 3. [Lifecycle](#lifecycle)
-
+    1. [Completing a project](#completing)
+4. [Earned Value (EVA) techniques](#ev)
+5. [Notes](#notes)
+6. [Privacy Policy](#privacy)
+7. [Contact](#contact)
+    
 
 ## 1. What is ProjectAble? <a name="introduction"></a>
 ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
 
-## 2. How does ProjectAble work?
+## 2. How does ProjectAble work? <a name="how"></a>
 
 :eyeglasses: [ProjectAble User Guide](https://snowyalcazar.github.io/ProjectAble/pdfs/UserGuide.pdf) <a name="projectableuserguide"></a>
 
@@ -54,10 +60,10 @@ ProjectAble distributes the automated budget spreads by dividing the duration in
 
 ### Project Lifecycle <a name="lifecycle"></a>
 
-#### Completing a project
+#### Completing a project <a name="completing"></a>
 A project is set to complete automatically with the final reporting period or a project can be manually marked complete in 'Project Settings'. by clicking the button on the Project Details screen.
 
-## 3. Use of Earned Value (EVA) techniques
+## 3. Use of Earned Value (EVA) techniques <a name="ev"></a>
 ProjectAble uses the earned value calulations discussed widely on the web and published in the **Project Management Book of Knowledge (PMBoK)** [PMI EVA](https://www.pmi.org/learning/library/make-earned-value-work-project-6001). In addition, ProjectAble makes use of two additional Estimate AT Complete methods - [IEAC1 & IEAC2](https://www.linkedin.com/pulse/earned-value-management-ieac1-ieac2-mick-higgins/) which provide further context and provides a range in which the final project cost is currently forecast to fall.
 
 Calculation | Method | Descriptive Method
@@ -74,16 +80,16 @@ IEAC2 (independent EAC2) | (AC + (BAC-EV)) / (CPI * SPI) | Actual Cost + (Budget
 Estimate To Complete | EAC - AC | Estimate At Complete - Actual Cost (to date)
 To Complete Project Index | (BAC - EV) / (BAC - AC) | (Budget Cost - Earned Value) / (Budget Cost - Actual Cost)
 
-## Notes
+## Notes <a name="notes"></a>
 - ProjectAble **_is_** a helpful tool to enable project professionals to track the status and forecast of a project quickly, reliably and accurately
 - ProjectAble **_is not_** intended to replace good planning, estimation, monitoring or control processes. Other tools are available for those purposes.
 
-## Privacy Policy
+## Privacy Policy <a name="privacy"></a>
 - ProjectAble does not collect any personal data
 - ProjectAble does not share any personal data
 - All data entered in or created by ProjectAble is stored in local database on the users device
 
-### Contact
-email | <ProjectAble@aleynmoor.co>
+### Contact <a name="contact"></a>
+email | <ProjectAble@aleynmoor.co> 
 
 <img  style="float: center;" src="img/1024.png" height="150px" width="150px">
