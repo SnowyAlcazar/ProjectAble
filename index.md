@@ -4,10 +4,10 @@
 
 > A helpful status reporting and forecasting App for iPhone
 
+
+<img src="img/1. Project List.png" height="400px" width="150px">
 ## Current Version
 Version 1.0.10 
-
-<img style="float: right;" src="img/1. Project List.png" height="550px" width="250px">
 
 ## Table of contents
 1. [What is ProjectAble?](#introduction)
@@ -26,11 +26,11 @@ Version 1.0.10
 ## 1. What is ProjectAble? <a name="introduction"></a>
 ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
 
-<img style="float: right;" src="img/3. Adding MPB Project.png" height="550px" width="250px">
-
 ## 2. How does ProjectAble work? <a name="how"></a>
 
 :eyeglasses: [ProjectAble User Guide](https://snowyalcazar.github.io/ProjectAble/pdfs/UserGuide.pdf) <a name="projectableuserguide"></a>
+
+<img src="img/3. Adding MPB Project.png" height="400px" width="150px">
 
 #### Setup <a name="setup"></a>
 To create a project, only 8 pieces of information are required. 
@@ -66,7 +66,10 @@ ProjectAble distributes the automated budget spreads by dividing the duration in
 #### Completing a project <a name="completing"></a>
 A project is set to complete automatically with the final reporting period or a project can be manually marked complete in 'Project Settings'. by clicking the button on the Project Details screen.
 
+<img src="img/5a. Current Status Report 1.png" height="400px" width="150px">
+
 ## 3. Use of Earned Value (EVA) techniques <a name="ev"></a>
+
 ProjectAble uses the earned value calulations discussed widely on the web and published in the **Project Management Book of Knowledge (PMBoK)** [PMI EVA](https://www.pmi.org/learning/library/make-earned-value-work-project-6001). In addition, ProjectAble makes use of two additional Estimate AT Complete methods - [IEAC1 & IEAC2](https://www.linkedin.com/pulse/earned-value-management-ieac1-ieac2-mick-higgins/) which provide further context and provides a range in which the final project cost is currently forecast to fall.
 
 Calculation | Method | Descriptive Method
