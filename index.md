@@ -21,7 +21,7 @@ Version 1.0.10
 6. [Privacy Policy](#privacy)
 7. [Contact](#contact)
     
-<img style="float: right;" src="img/1. Project List.png" height="500px" width="200px">
+<img style="float: right;" src="img/1. Project List.png" height="550px" width="250px">
 
 ## 1. What is ProjectAble? <a name="introduction"></a>
 ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
