@@ -4,10 +4,10 @@
 
 > A helpful status reporting and forecasting App for iPhone
 
+<img style="float: right;" src="img/1. Project List.png" height="550px" width="250px">
+
 ## Current Version
 Version 1.0.10 
-
-<img style="float: right;" src="img/1. Project List.png" height="550px" width="250px">
 
 ## Table of contents
 1. [What is ProjectAble?](#introduction)
