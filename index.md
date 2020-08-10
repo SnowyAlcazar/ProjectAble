@@ -7,7 +7,7 @@
 ## Current Version
 Version 1.0.10 
 
-<img style="float: right;" src="img/1._Project_List.png" height="350px" width="150px">
+<img style="float: right;" src="img/1. Project List.png" height="350px" width="150px">
 
 ## Table of contents
 1. [What is ProjectAble?](#introduction)
