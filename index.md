@@ -4,9 +4,7 @@
 
 > A helpful status reporting and forecasting App for iPhone
 
-<img style="border:1px solid gray;" src="img/1. Project List.png" height="300px" width="150px" padding="25px"> 
-<img style="border:1px solid gray;" src="img/3. Adding MPB Project.png" height="300px" width="150px" padding="25px"> 
-<img style="border:1px solid gray;" src="img/5a. Current Status Report 1.png" height="300px" width="150px" padding="25px" border="2px">
+<img style="border:1px solid gray;" src="img/1. Project List.png" height="300px" width="150px" padding="25px">   <img style="border:1px solid gray;" src="img/3. Adding MPB Project.png" height="300px" width="150px" padding="25px">   <img style="border:1px solid gray;" src="img/5a. Current Status Report 1.png" height="300px" width="150px" padding="25px" border="2px">
 
 
 ## Current Version
