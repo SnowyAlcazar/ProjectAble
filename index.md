@@ -8,6 +8,7 @@
 Version 1.0.10 
 
 <img style="float: right;" src="img/1. Project List.png" height="550px" width="250px">
+
 ## Table of contents
 1. [What is ProjectAble?](#introduction)
 2. [How does ProjectAble work?](#how)
@@ -30,6 +31,7 @@ ProjectAble uses a traditional project management technique called Earned Value 
 :eyeglasses: [ProjectAble User Guide](https://snowyalcazar.github.io/ProjectAble/pdfs/UserGuide.pdf) <a name="projectableuserguide"></a>
 
 <img style="float: right;" src="img/3. Adding MPB Project.png" height="550px" width="250px">
+
 #### Setup <a name="setup"></a>
 To create a project, only 8 pieces of information are required. 
 1. Project identifier
