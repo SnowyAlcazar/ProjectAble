@@ -7,6 +7,8 @@
 ## Current Version
 Version 1.0.10 
 
+<img style="float: center;" src="img/1. Project List.png" height="550px" width="250px">
+
 ## Table of contents
 1. [What is ProjectAble?](#introduction)
 2. [How does ProjectAble work?](#how)
@@ -20,11 +22,11 @@ Version 1.0.10
 5. [Notes](#notes)
 6. [Privacy Policy](#privacy)
 7. [Contact](#contact)
-    
-<img style="float: right;" src="img/1. Project List.png" height="550px" width="250px">
 
 ## 1. What is ProjectAble? <a name="introduction"></a>
 ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
+
+
 
 ## 2. How does ProjectAble work? <a name="how"></a>
 
