@@ -5,7 +5,7 @@
 > A helpful status reporting and forecasting App for iPhone
 
 
-<img src="img/1. Project List.png" height="400px" width="150px">
+<img src="img/1. Project List.png" height="300px" width="150px">
 ## Current Version
 Version 1.0.10 
 
@@ -30,7 +30,7 @@ ProjectAble uses a traditional project management technique called Earned Value 
 
 :eyeglasses: [ProjectAble User Guide](https://snowyalcazar.github.io/ProjectAble/pdfs/UserGuide.pdf) <a name="projectableuserguide"></a>
 
-<img src="img/3. Adding MPB Project.png" height="400px" width="150px">
+<img src="img/3. Adding MPB Project.png" height="300px" width="150px">
 
 #### Setup <a name="setup"></a>
 To create a project, only 8 pieces of information are required. 
@@ -66,7 +66,7 @@ ProjectAble distributes the automated budget spreads by dividing the duration in
 #### Completing a project <a name="completing"></a>
 A project is set to complete automatically with the final reporting period or a project can be manually marked complete in 'Project Settings'. by clicking the button on the Project Details screen.
 
-<img src="img/5a. Current Status Report 1.png" height="400px" width="150px">
+<img src="img/5a. Current Status Report 1.png" height="300px" width="150px">
 
 ## 3. Use of Earned Value (EVA) techniques <a name="ev"></a>
 
