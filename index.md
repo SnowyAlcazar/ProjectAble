@@ -7,8 +7,7 @@
 ## Current Version
 Version 1.0.10 
 
-<img style="float: center;" src="img/1. Project List.png" height="550px" width="250px">
-
+<img style="float: right;" src="img/1. Project List.png" height="550px" width="250px">
 ## Table of contents
 1. [What is ProjectAble?](#introduction)
 2. [How does ProjectAble work?](#how)
@@ -26,12 +25,11 @@ Version 1.0.10
 ## 1. What is ProjectAble? <a name="introduction"></a>
 ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
 
-
-
 ## 2. How does ProjectAble work? <a name="how"></a>
 
 :eyeglasses: [ProjectAble User Guide](https://snowyalcazar.github.io/ProjectAble/pdfs/UserGuide.pdf) <a name="projectableuserguide"></a>
 
+<img style="float: right;" src="img/3. Adding MPB Project.png" height="550px" width="250px">
 #### Setup <a name="setup"></a>
 To create a project, only 8 pieces of information are required. 
 1. Project identifier
