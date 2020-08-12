@@ -101,11 +101,6 @@ email | <ProjectAble@aleynmoor.co>
 <img  style="float: center;" src="img/1024.png" height="150px" width="150px">
 
 ## More ProjectAble App Images
-<img style="border:1px solid gray;" src="img/5a. Current Status Report 1.png" height="300px" width="150px">
-<img style="border:1px solid gray;" src="img/5b. Current Status Report 2.png" height="300px" width="150px">
-<img style="border:1px solid gray;" src="img/10. Edit Manual Budget.png" height="300px" width="150px">   
-<img style="border:1px solid gray;" src="img/Project Info MPB Updated BAC.png" height="300px" width="150px">   
-<img style="border:1px solid gray;" src="img/9. Manual Budgets List.png" height="300px" width="150px">  
-<img style="border:1px solid gray;" src="img/10. Edit Manual Budget.png" height="300px" width="150px">   
+<img style="border:1px solid gray;" src="img/5a. Current Status Report 1.png" height="300px" width="150px">  <img style="border:1px solid gray;" src="img/5b. Current Status Report 2.png" height="300px" width="150px">  <img style="border:1px solid gray;" src="img/10. Edit Manual Budget.png" height="300px" width="150px">    <img style="border:1px solid gray;" src="img/Project Info MPB Updated BAC.png" height="300px" width="150px">  <img style="border:1px solid gray;" src="img/9. Manual Budgets List.png" height="300px" width="150px">  <img style="border:1px solid gray;" src="img/10. Edit Manual Budget.png" height="300px" width="150px">   
 
 
