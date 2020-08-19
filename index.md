@@ -7,7 +7,7 @@
 <img style="border:1px solid gray;" src="img/1. Project List.png" height="200px" width="100px">   <img style="border:1px solid gray;" src="img/2. About ProjectAble.png" height="200px" width="100px">   <img style="border:1px solid gray;" src="img/4a. Project Info.png" height="200px" width="100px">  <img style="border:1px solid gray;" src="img/6. Progress History.png" height="200px" width="100px">   <img style="border:1px solid gray;" src="img/5a. Current Status Report 1.png" height="200px" width="100px">
 
 ## Current Version
-Version 1.0.10 
+Version 1.0.13 
 
 ## Table of contents
 1. [What is ProjectAble?](#introduction)
