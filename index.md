@@ -11,7 +11,8 @@
 
 ## Current Version
 Version 1.0.13 
-<img src="img/Download_on_App_Store/Black_lockup/SVG/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg">
+
+<a href="https://apps.apple.com/gb/app/projectable/id1515134507?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-08-18&kind=iossoftware&bubble=apple_music) no-repeat;width:135px;height:40px;"></a>
 
 ## Table of contents
 1. [What is ProjectAble?](#introduction)
