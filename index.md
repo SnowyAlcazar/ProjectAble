@@ -101,8 +101,5 @@ To Complete Project Index | (BAC - EV) / (BAC - AC) | (Budget Cost - Earned Valu
 
 [Back to top...](#top)
 
-### Contact <a name="contact"></a>
-email | <ProjectAble@aleynmoor.co> 
-
 <img  style="float: center;" src="img/1024.png" height="150px" width="150px">
 
