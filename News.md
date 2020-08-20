@@ -1,7 +1,3 @@
-layout: page
-title: "News"
-permalink: /https://snowyalcazar.github.io/ProjectAble/
-
 <img style="float: right;" src="img/1024.png" height="150px" width="150px">
 
 # ProjectAble News<a name="top"></a>
