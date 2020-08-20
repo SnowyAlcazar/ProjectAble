@@ -2,9 +2,6 @@
 
 <img style="float: right;" src="img/1024.png" height="150px" width="150px">
 
-# ProjectAble Image Gallery
-
-
 # ProjectAble Privacy Policy
 
 ProjectAble does not collect or store personal data. 
