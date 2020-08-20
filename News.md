@@ -15,6 +15,9 @@ Version 1.0.13
 
 <!-- download on the App Store here -->
 
+I proud to announce ProjectAble is now available to download on the Apple App Store. 
+
+
 <!--  Linked In message  -->
 
 <!-- Marketing Messages -->
