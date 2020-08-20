@@ -7,10 +7,15 @@
 
 > A helpful status reporting and forecasting App for iPhone
 
-
-
 ## What is ProjectAble? <a name="introduction"></a>
 ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
 
 ## Current Version
 Version 1.0.13 
+
+<!-- download on the App Store here -->
+
+<!--  Linked In message  -->
+
+<!-- Marketing Messages -->
+
