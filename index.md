@@ -11,7 +11,7 @@
 
 ## Current Version
 Version 1.0.13 
-<img style="float: right;" src="img/Download_on_App_Store/Black_lockup/SVG/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg">
+<img src="img/Download_on_App_Store/Black_lockup/SVG/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg">
 
 ## Table of contents
 1. [What is ProjectAble?](#introduction)
@@ -35,7 +35,7 @@ ProjectAble uses a traditional project management technique called Earned Value 
 
 :eyeglasses: [ProjectAble User Guide](https://snowyalcazar.github.io/ProjectAble/pdfs/UserGuide.pdf) <a name="projectableuserguide"></a>
 
-#### Setup <a name="setup"></a>
+### Setup <a name="setup"></a>
 To create a project, only 8 pieces of information are required. 
 1. Project identifier
 2. Sponsor's name
@@ -46,10 +46,10 @@ To create a project, only 8 pieces of information are required.
 7. Project budget
 8. Budget distribution - the 5 options available are described below.
 
-#### Treatment Of Time <a name="time"></a>
+### Treatment Of Time <a name="time"></a>
 ProjectAble uses time only to calculate the project duration and number of reporting periods when a project is created. Each time a new progress update is added, ProjectAble calculates the budget percentage complete and spend for the reporting period (or uses the manual values provided). The reporting period is important but ProjectAble does not use specific date and time values in these calculations. With the final progress update, ProjectAble will set the percent complete to 100%. As with all progress updates, you can overwrite the pre-calculated values but please note, setting the percent complete to less than 100% will allow the project to continue, however, in these circumstances the calculations may behave unexpectedly.
 
-#### Budget Distribution  <a name="distribution"></a>
+### Budget Distribution  <a name="distribution"></a>
 ProjectAble uses the reporting frequency, project start and project end dates, and selected budget distribution curve input by the user when setting up the project, to spread the project budget according to expectated project spend and schedule. ProjectAble provides 5 methods for distributing budgets:
 
 Curve | Description
@@ -66,7 +66,7 @@ ProjectAble distributes the automated budget spreads by dividing the duration in
 
 ### Project Lifecycle <a name="lifecycle"></a>
 
-#### Completing a project <a name="completing"></a>
+### Completing a project <a name="completing"></a>
 A project is set to complete automatically with the final reporting period or a project can be manually marked complete in 'Project Settings'. by clicking the button on the Project Details screen.
 
 [Back to top...](#top)
