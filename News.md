@@ -8,7 +8,7 @@ permalink: /https://snowyalcazar.github.io/ProjectAble/
 
 > A helpful status reporting and forecasting App for iPhone
 
-[Home]<a href="index.md"></a>
+[Home](https://snowyalcazar.github.io/ProjectAble/index.md) <a name="Home"></a>
 
 ## What is ProjectAble? <a name="introduction"></a>
 ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
