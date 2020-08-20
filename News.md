@@ -13,9 +13,9 @@ ProjectAble uses a traditional project management technique called Earned Value 
 ## Current Version
 Version 1.0.13 
 
-<!-- download on the App Store here -->
+I am proud to announce **ProjectAble** is now available to download on the Apple App Store. 
 
-I proud to announce ProjectAble is now available to download on the Apple App Store. 
+<a href="https://apps.apple.com/gb/app/projectable/id1515134507?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-08-18&kind=iossoftware&bubble=apple_music) no-repeat;width:135px;height:40px;"></a>
 
 
 <!--  Linked In message  -->
