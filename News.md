@@ -8,7 +8,11 @@ permalink: /https://snowyalcazar.github.io/ProjectAble/
 
 > A helpful status reporting and forecasting App for iPhone
 
-<img style="border:1px solid gray;" src="img/1. Project List.png" height="200px" width="100px">   <img style="border:1px solid gray;" src="img/2. About ProjectAble.png" height="200px" width="100px">   <img style="border:1px solid gray;" src="img/4a. Project Info.png" height="200px" width="100px">  <img style="border:1px solid gray;" src="img/6. Progress History.png" height="200px" width="100px">   <img style="border:1px solid gray;" src="img/5a. Current Status Report 1.png" height="200px" width="100px">
+## 1. What is ProjectAble? <a name="introduction"></a>
+ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
 
+## 2. How does ProjectAble work? <a name="how"></a>
+
+:eyeglasses: [ProjectAble User Guide](https://snowyalcazar.github.io/ProjectAble/pdfs/UserGuide.pdf) <a name="projectableuserguide"></a>
 ## Current Version
 Version 1.0.13 
