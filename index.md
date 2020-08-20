@@ -17,17 +17,10 @@ Version 1.0.13
 ## Table of contents
 1. [What is ProjectAble?](#introduction)
 2. [How does ProjectAble work?](#how)
-    1. [User Guide](#projectableuserguide)
-    2. [Setup basics](#setup)
-    3. [Treatment of time](#time)
-    4. [Budget distribution](#distribution)
 3. [Lifecycle](#lifecycle)
-    1. [Completing a project](#completing)
 4. [Earned Value (EVA) techniques](#ev)
 5. [Notes](#notes)
 6. [Privacy Policy](#privacy)
-7. [Download from AppStore](#download)
-8. [Contact](#contact)
 
 ## 1. What is ProjectAble? <a name="introduction"></a>
 ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
