@@ -1,4 +1,5 @@
-[News](News) <a name="News"></a>
+[Home](index) <a name="Index"></a> | [News](News) <a name="News"></a> | [Gallery](Gallery) <a name="Gallery"></a> | [Privacy Policy](PrivacyPolicy) <a name="PrivacyPolicy"></a> 
+
 
 <img style="float: right;" src="img/1024.png" height="150px" width="150px">
 
@@ -23,8 +24,8 @@ Version 1.0.13
 4. [Earned Value (EVA) techniques](#ev)
 5. [Notes](#notes)
 6. [Privacy Policy](#privacy)
-7. [Contact](#contact)
-8. [Gallery](#moreImages)
+7. [Download from AppStore](#download)
+8. [Contact](#contact)
 
 ## 1. What is ProjectAble? <a name="introduction"></a>
 ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
@@ -102,8 +103,4 @@ To Complete Project Index | (BAC - EV) / (BAC - AC) | (Budget Cost - Earned Valu
 email | <ProjectAble@aleynmoor.co> 
 
 <img  style="float: center;" src="img/1024.png" height="150px" width="150px">
-
-## Image Gallery  <a name="moreImages"></a>
-<img style="border:1px solid gray;" src="img/1. Project List.png" height="400px" width="200px">   <img style="border:1px solid gray;" src="img/2. About ProjectAble.png" height="400px" width="200px">   <img style="border:1px solid gray;" src="img/4a. Project Info.png" height="400px" width="200px">   <img style="border:1px solid gray;" src="img/6. Progress History.png" height="400px" width="200px">   <img style="border:1px solid gray;" src="img/5a. Current Status Report 1.png" height="400px" width="200px">   <img style="border:1px solid gray;" src="img/5b. Current Status Report 2.png" height="400px" width="200px">   <img style="border:1px solid gray;" src="img/Project Info MPB Updated BAC.png" height="400px" width="200px">   <img style="border:1px solid gray;" src="img/9. Manual Budgets List.png" height="400px" width="200px">   <img style="border:1px solid gray;" src="img/10. Edit Manual Budget.png" height="400px" width="200px">   <img style="border:1px solid gray;" src="img/Project List Filter Menu on way to setting Complete.png" height="400px" width="200px">   <img style="border:1px solid gray;" src="img/Project List Active Filter.png" height="400px" width="200px">   
-
 
