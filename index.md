@@ -88,5 +88,5 @@ To Complete Project Index | (BAC - EV) / (BAC - AC) | (Budget Cost - Earned Valu
 
 [Back to top...](#top)
 
-<img  style="float: center;" src="img/ProjectAble_QAR.png" height="550px" width="204px">
+<img  style="float: center;" src="img/ProjectAble_QAR.png" height="204px" width="550px">
 
