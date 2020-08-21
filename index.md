@@ -19,10 +19,11 @@ Version 1.0.13
 [How does ProjectAble work?](#how)
 [Earned Value (EVA) techniques](#ev)
 
-
 ## What is ProjectAble? <a name="introduction"></a>
-ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
+ProjectAble harnesses the power of Earned Value Analysis to provide the Current Status of a Project and to Forecast the outcome of the project accurately and reliably. It is designed to be quick and easy to use on the go and to provide useful output which can be used in discussions about project status and viability.
+ProjectAble is quick and easy to use and provides valuable output.
 
+ProjectAble harnesses the power of Earned Value Analysis to provide the Current Status of a Project and to Forecast the outcome of the project accurately and reliably. It is designed to be quick and easy to use on the go and to provide useful output which can be used in discussions about project status and viability.
 ## How does ProjectAble work? <a name="how"></a>
 
 :eyeglasses: [ProjectAble User Guide](https://snowyalcazar.github.io/ProjectAble/pdfs/UserGuide.pdf) <a name="projectableuserguide"></a>
