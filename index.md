@@ -16,8 +16,10 @@ Version 1.0.13
 
 ## Table of contents
 [What is ProjectAble?](#introduction)
+
 [How does ProjectAble work?](#how)
-[Earned Value (EVA) techniques](#ev)
+
+[Earned Value (EVA) calculations](#ev)
 
 ## What is ProjectAble? <a name="introduction"></a>
 ProjectAble harnesses the power of Earned Value Analysis to provide the Current Status of a Project and to Forecast the outcome of the project accurately and reliably. It is designed to be quick and easy to use on the go and to provide useful output which can be used in discussions about project status and viability.
