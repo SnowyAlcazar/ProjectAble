@@ -24,20 +24,18 @@ ProjectAble harnesses the power of Earned Value Analysis to provide the Current 
 ProjectAble is quick and easy to use and provides valuable output.
 
 ProjectAble harnesses the power of Earned Value Analysis to provide the Current Status of a Project and to Forecast the outcome of the project accurately and reliably. It is designed to be quick and easy to use on the go and to provide useful output which can be used in discussions about project status and viability.
-## How does ProjectAble work? <a name="how"></a>
+
+## How Does ProjectAble Work? <a name="introduction"></a>
+
+A ProjectAble project is quick to setup and to record progress updates. The calculations are done behind the scenes and a report is produced with commentary to help identify those areas in need of attention.
 
 :eyeglasses: [ProjectAble User Guide](https://snowyalcazar.github.io/ProjectAble/pdfs/UserGuide.pdf) <a name="projectableuserguide"></a>
 
-### Setup <a name="setup"></a>
-To create a project, only 8 pieces of information are required. 
-1. Project identifier
-2. Sponsor's name
-3. A description
-4. How often you report on your project - select frequency from : daily, weekly, 2 weekly or 4 weekly
-5. Project start date
-6. Project end date
-7. Project budget
-8. Budget distribution - the 5 options available are described below.
+Each project has a Red, Amber, Green (RAG) status and the project list on the home screen, is sorted in order of priority enabling the project manager to quickly identify those projects in greatest need of attention. The status report clearly identifies the current performance trend along with key performance indicators and the narrative. Each progress update is recorded and can be viewed in Progress History which makes it a simple task to audit progress to date. 
+
+ProjectAble provides several methods to automatically distribute the budget across the project duration. The automated distribution methods enable project setup with the least effort but may well not provide the level or detailed control required. For projects requiring greater control over budget distribution, there is an option to manually input the planned budget per reporting period.
+
+Project data (both input and calculated) is stored (on the device) and can be reviewed by looking at the progress history screen. This data is stored only on the device and is not collected or shared.
 
 ### Treatment Of Time <a name="time"></a>
 ProjectAble uses time only to calculate the project duration and number of reporting periods when a project is created. Each time a new progress update is added, ProjectAble calculates the budget percentage complete and spend for the reporting period (or uses the manual values provided). The reporting period is important but ProjectAble does not use specific date and time values in these calculations. With the final progress update, ProjectAble will set the percent complete to 100%. As with all progress updates, you can overwrite the pre-calculated values but please note, setting the percent complete to less than 100% will allow the project to continue, however, in these circumstances the calculations may behave unexpectedly.
