@@ -15,17 +15,15 @@ Version 1.0.13
 <a href="https://apps.apple.com/gb/app/projectable/id1515134507?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-08-18&kind=iossoftware&bubble=apple_music) no-repeat;width:135px;height:40px;"></a>
 
 ## Table of contents
-1. [What is ProjectAble?](#introduction)
-2. [How does ProjectAble work?](#how)
-3. [Lifecycle](#lifecycle)
-4. [Earned Value (EVA) techniques](#ev)
-5. [Notes](#notes)
-6. [Privacy Policy](#privacy)
+[What is ProjectAble?](#introduction)
+[How does ProjectAble work?](#how)
+[Earned Value (EVA) techniques](#ev)
 
-## 1. What is ProjectAble? <a name="introduction"></a>
+
+## What is ProjectAble? <a name="introduction"></a>
 ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
 
-## 2. How does ProjectAble work? <a name="how"></a>
+## How does ProjectAble work? <a name="how"></a>
 
 :eyeglasses: [ProjectAble User Guide](https://snowyalcazar.github.io/ProjectAble/pdfs/UserGuide.pdf) <a name="projectableuserguide"></a>
 
@@ -65,7 +63,7 @@ A project is set to complete automatically with the final reporting period or a 
 
 [Back to top...](#top)
 
-## 3. Use of Earned Value (EVA) techniques <a name="ev"></a>
+## Use of Earned Value (EVA) techniques <a name="ev"></a>
 
 ProjectAble uses the earned value calulations discussed widely on the web and published in the **Project Management Book of Knowledge (PMBoK)** [PMI EVA](https://www.pmi.org/learning/library/make-earned-value-work-project-6001). In addition, ProjectAble makes use of two additional Estimate AT Complete methods - [IEAC1 & IEAC2](https://www.linkedin.com/pulse/earned-value-management-ieac1-ieac2-mick-higgins/) which provide further context and provides a range in which the final project cost is currently forecast to fall.
 
