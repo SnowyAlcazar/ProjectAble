@@ -56,8 +56,6 @@ ProjectAble distributes the automated budget spreads by dividing the duration in
 
 > If the duration of a project allows less than 4 reporting periods, the curve will be treated as **flat**. This does not apply if the project is using the ***manual budget*** option.
 
-### Project Lifecycle <a name="lifecycle"></a>
-
 ### Completing a project <a name="completing"></a>
 A project is set to complete automatically with the final reporting period or a project can be manually marked complete in 'Project Settings'. by clicking the button on the Project Details screen.
 
