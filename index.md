@@ -1,5 +1,5 @@
-<Head><LINK REL="SHORTCUT ICON"
-            HREF="/img/ProjectAble.ico"></Head>
+<HEAD><LINK REL="SHORTCUT ICON"
+            HREF="/img/ProjectAble.ico"></HEAD>
        
 [Home](index) <a name="Index"></a> | [News](News) <a name="News"></a> | [Gallery](gallery) <a name="Gallery"></a> | [Privacy Policy](PrivacyPolicy) <a name="Privacy Policy"></a> | [Contact Us](contactus) <a name="Contact Us"></a>
 
