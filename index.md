@@ -1,5 +1,4 @@
-<HEAD><LINK REL="SHORTCUT ICON"
-            HREF="/img/ProjectAble.ico"></HEAD>
+<HEAD><link rel="shortcut icon" href="url to /img/favicon.ico" type="image/x-icon" /></HEAD>
        
 [Home](index) <a name="Index"></a> | [News](News) <a name="News"></a> | [Gallery](gallery) <a name="Gallery"></a> | [Privacy Policy](PrivacyPolicy) <a name="Privacy Policy"></a> | [Contact Us](contactus) <a name="Contact Us"></a>
 
